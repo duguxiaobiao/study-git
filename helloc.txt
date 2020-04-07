@@ -1,2 +1,1 @@
 hello 用户C
-hello java
